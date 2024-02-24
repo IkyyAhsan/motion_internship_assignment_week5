@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "780770265436",
+    "project_id": "motion-todo-app-52902",
+    "storage_bucket": "motion-todo-app-52902.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780770265436:android:b747e6048c657ae6fb9999",
+        "android_client_info": {
+          "package_name": "com.example.motion_flutter_week7"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZYfaAE4dm3jmFxQ8OUJF3dM4Y1Ek3qxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
